@@ -17,7 +17,8 @@ This Power BI Desktop dashboard provides a comprehensive analysis of **sales dat
 - 📌 **Geographical Sales Breakdown**  
 
 ## 📷 Dashboard Preview  
-*(Add a screenshot of your dashboard here!)*  
+![Dashboard Preview](https://github.com/ManasiPatil123/PowerBi/blob/main/sales_dashboard.jpg)
+
 
 ## 🛠️ Tools & Technologies  
 - **Power BI Desktop**  
@@ -26,8 +27,8 @@ This Power BI Desktop dashboard provides a comprehensive analysis of **sales dat
 - **Sales Analytics**  
 
 ## 🔗 Connect With Me  
-👨‍💻 **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/manasi-patil-186305287)  
-📧 **Email:** [your.email@example.com](mailto:manasirpatil11@gmail.com)  
+👨‍💻 **LinkedIn:** [Mansi Patil](www.linkedin.com/in/manasi-patil-186305287)  
+📧 **Email:** [manasirpatil11@gmail.com](mailto:manasirpatil11@gmail.com)  
 
 💡 Feel free to reach out for collaborations, discussions, or inquiries!  
 
